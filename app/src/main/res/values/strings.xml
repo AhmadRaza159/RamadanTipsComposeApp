@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Learning Ramadan Tips Compose App</string>
+
+    <string name="day_text_1">Day 1</string>
+    <string name="day_text_2">Day 2</string>
+    <string name="day_text_3">Day 3</string>
+    <string name="day_text_4">Day 4</string>
+    <string name="day_text_5">Day 5</string>
+    <string name="day_text_6">Day 6</string>
+    <string name="day_text_7">Day 7</string>
+    <string name="day_text_8">Day 8</string>
+    <string name="day_text_9">Day 9</string>
+    <string name="day_text_10">Day 10</string>
+    <string name="day_text_11">Day 11</string>
+    <string name="day_text_12">Day 12</string>
+    <string name="day_text_13">Day 13</string>
+    <string name="day_text_14">Day 14</string>
+    <string name="day_text_15">Day 15</string>
+    <string name="day_text_16">Day 16</string>
+    <string name="day_text_17">Day 17</string>
+    <string name="day_text_18">Day 18</string>
+    <string name="day_text_19">Day 19</string>
+    <string name="day_text_20">Day 20</string>
+    <string name="day_text_21">Day 21</string>
+    <string name="day_text_22">Day 22</string>
+    <string name="day_text_23">Day 23</string>
+    <string name="day_text_24">Day 24</string>
+    <string name="day_text_25">Day 25</string>
+    <string name="day_text_26">Day 26</string>
+    <string name="day_text_27">Day 27</string>
+    <string name="day_text_28">Day 28</string>
+    <string name="day_text_29">Day 29</string>
+    <string name="day_text_30">Day 30</string>
+
+    <string name="quote_title_1">Ramadan Mubarak</string>
+    <string name="quote_description_1">May the spirit of Ramadan illuminate your path and lead you to righteousness. Ramadan Kareem!</string>
+</resources>
