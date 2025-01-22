@@ -2,6 +2,9 @@ package com.example.learningramadantipscomposeapp
 
 import androidx.annotation.DrawableRes
 import androidx.annotation.StringRes
+import androidx.compose.animation.animateContentSize
+import androidx.compose.animation.core.Spring
+import androidx.compose.animation.core.spring
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
@@ -9,6 +12,7 @@ import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material3.Card
 import androidx.compose.material3.CardColors
@@ -18,6 +22,10 @@ import androidx.compose.material3.IconButton
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.remember
+import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
@@ -25,6 +33,7 @@ import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.painter.Painter
 import androidx.compose.ui.graphics.vector.ImageVector
+import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.res.vectorResource
@@ -36,18 +45,29 @@ import com.example.learningramadantipscomposeapp.ui.theme.LearningRamadanTipsCom
 
 @Composable
 fun RamadanItem(ramadanDay: RamadanDay, modifier: Modifier = Modifier) {
+    var expanded by remember { mutableStateOf(false) }
     Card(modifier=modifier, colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.primaryContainer)) {
-        Column(modifier=Modifier.padding(8.dp)) {
-            TopBar(ramadanDayNum = ramadanDay.dayNumTitle, ramadanQuoteTitle = ramadanDay.dayQuoteTitle)
-            RamadanImage(ramadanImage = ramadanDay.dayImage)
-            RamadanQuote(text = ramadanDay.dayQuoteDesc)
+        Column(modifier=Modifier.padding(8.dp).animateContentSize(
+            animationSpec = spring(
+                dampingRatio = Spring.DampingRatioNoBouncy,
+                stiffness = Spring.StiffnessMedium
+            )
+        )) {
+            TopBar(expanded = expanded, ramadanDayNum = ramadanDay.dayNumTitle, ramadanQuoteTitle = ramadanDay.dayQuoteTitle, {
+                expanded=!expanded
+            })
+            if (expanded){
+                RamadanImage(ramadanImage = ramadanDay.dayImage)
+                RamadanQuote(text = ramadanDay.dayQuoteDesc)
+            }
+
         }
     }
 
 }
 
 @Composable
-fun TopBar(@StringRes ramadanDayNum:Int, @StringRes ramadanQuoteTitle:Int, modifier: Modifier = Modifier) {
+fun TopBar(expanded:Boolean, @StringRes ramadanDayNum:Int, @StringRes ramadanQuoteTitle:Int, onBClick:()->Unit, modifier: Modifier = Modifier) {
     Row(
         modifier = modifier
             .fillMaxWidth()
@@ -65,9 +85,11 @@ fun TopBar(@StringRes ramadanDayNum:Int, @StringRes ramadanQuoteTitle:Int, modif
                 .padding(8.dp, 4.dp)
                 .weight(1f)
         )
-        IconButton(onClick = {}) {
+        IconButton(onClick = {
+            onBClick.invoke()
+        }) {
             Icon(
-                imageVector = ImageVector.vectorResource(R.drawable.ic_arrow_down),
+                imageVector =if (!expanded) ImageVector.vectorResource(R.drawable.ic_arrow_down) else ImageVector.vectorResource(R.drawable.ic_arrow_up),
                 contentDescription = null,
                 tint = MaterialTheme.colorScheme.primary,
                 modifier = modifier.border(
@@ -117,7 +139,8 @@ fun RamadanImage(@DrawableRes ramadanImage: Int, modifier: Modifier = Modifier) 
         Image(
             painter = painterResource(ramadanImage),
             contentDescription = null,
-            modifier = modifier.clip(MaterialTheme.shapes.medium)
+            contentScale = ContentScale.Crop,
+            modifier = modifier.clip(MaterialTheme.shapes.medium).fillMaxWidth().height(220.dp)
         )
     }
 }
@@ -126,8 +149,8 @@ fun RamadanImage(@DrawableRes ramadanImage: Int, modifier: Modifier = Modifier) 
 fun RamadanQuote(@StringRes text:Int,modifier: Modifier = Modifier) {
     Text(
         text= stringResource(text),
-        style = MaterialTheme.typography.bodyMedium,
-        color = Color.Black,
+        style = MaterialTheme.typography.bodyLarge,
+        color = MaterialTheme.colorScheme.onPrimaryContainer,
         modifier = modifier.padding(4.dp)
     )
 }
@@ -136,6 +159,6 @@ fun RamadanQuote(@StringRes text:Int,modifier: Modifier = Modifier) {
 @Composable
 fun RamadanItemPreview() {
     LearningRamadanTipsComposeAppTheme {
-        RamadanItem(RamadanDay(dayNumTitle = R.string.day_text_1, dayQuoteTitle = R.string.quote_title_1, dayImage = R.drawable.android_banner_onlyflutter, dayQuoteDesc = R.string.quote_description_1))
+        RamadanItem(RamadanDay(dayNumTitle = R.string.day_text_1, dayQuoteTitle = R.string.quote_title_1, dayImage = R.drawable.ramadan_1, dayQuoteDesc = R.string.quote_description_1))
     }
 }

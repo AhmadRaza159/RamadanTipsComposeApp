@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Learning Ramadan Tips Compose App</string>
+    <string name="app_name">Ramadan Tips</string>
 
     <string name="day_text_1">Day 1</string>
     <string name="day_text_2">Day 2</string>
@@ -32,6 +32,644 @@
     <string name="day_text_29">Day 29</string>
     <string name="day_text_30">Day 30</string>
 
-    <string name="quote_title_1">Ramadan Mubarak</string>
-    <string name="quote_description_1">May the spirit of Ramadan illuminate your path and lead you to righteousness. Ramadan Kareem!</string>
+    <string name="quote_title_1">The Journey Starts Here – Bismillah!</string>
+    <string name="quote_description_1">Its finally here…the blessed month of Ramadan!
+Todays tips:
+• Purify your intention for fasting. Make sure its
+purely for Allahs sake.
+• Set multiple alarms for as late a suhoor as
+possible – not to be missed!
+• Book one or two 30-minute slots of Quran
+recitation each day (you can add more slots, but these
+should be your bare minimum for the day).</string>
+
+    <string name="quote_title_2">Remember Last Ramadan?</string>
+    <string name="quote_description_2">How was it? Was it productive, or did you barely
+survive?
+If you had an unproductive Ramadan last year, dont
+repeat it this year. Feeling guilty about last years
+Ramadan wont benefit you unless you can use that
+guilt to light up a burning desire in you TODAY to do
+better this year, improve yourself, and not fall in the
+same traps as last year.
+On the other hand, if you had a super productive Rama-
+dan last year, Alhamdulillah! Try to recall what worked
+for you last year and how you can improve on that.</string>
+
+    <string name="quote_title_3">Are You Busy Yet Unproductive?</string>
+    <string name="quote_description_3">Whenever we think of ‘unproductive people during
+Ramadan, we think of people who waste time staying
+up all night watching TV and sleeping the whole day
+until Asr (or sometimes right through to Maghrib)!
+But theres another type of unproductive person during
+Ramadan:
+These are the workaholics – those who barely have time
+to worship Allah (Subhanahu Wa Taala) during Rama-
+dan because they are so busy with life/work/family and
+everything else they are involved in. They also give no
+time to read the Quran, barely give charity, and
+Taraweeh prayer is simply out of the question!
+You may argue that this is not too bad - at least they
+are ‘productive. But are they? Are they wasting their
+Ramadan? In the grand scheme of things, if they died
+today, will all their ‘busy-ness benefit them or will it be
+a ‘waste?
+We need to be careful of this second type of unproduc-
+tive behavior. It affects us all, especially those with
+busy schedules. Ramadan can easily slip from us due to
+our busy lifestyles and well only regret it on the last
+day of Ramadan. So lets not regret it this year!</string>
+
+    <string name="quote_title_4">Time For A Daily Review!</string>
+    <string name="quote_description_4">Spend the last 10-15 minutes of each day of Ramadan
+reviewing your day. (This could be a simple mental
+exercise or written down).
+If your day was productive, ask yourself what went
+right. What were the ingredients that made this day
+productive? How can I replicate this experience each
+day? Remember to thank Allah Subhanahu Wa Taala for
+blessing you with a productive day.
+If it was unproductive, ask yourself what went wrong.
+How can I avoid such a day repeating itself during
+Ramadan? Ask Allah Subhanahu Wa Taala to help you
+make your future days productive. Renew your inten-
+tion and be positive that, if you are granted life, the
+next day will be better.
+You want to be constantly developing and improving
+each day during Ramadan, so that by the last 10 days
+youre at your peak InshaAllah!</string>
+
+    <string name="quote_title_5">Productivity For The Sake Of…?</string>
+    <string name="quote_description_5">“Say, "Indeed, my prayer, my rites of sacrifice, my living
+and my dying are for Allah, Lord of the worlds” (Surah
+Al-Anaam, 6:162).
+Therefore, our productivity and efforts should be
+directed to Him and to what He is pleased with. Some-
+times we just perform actions for the sake of doing
+them, without considering the intentions behind them.
+Yet we know our actions are judged by the intention.
+The next time you embark on any productive activity,
+ask yourself, “Is this for Allah (Subhanahu Wa Taala) or
+not?”</string>
+
+    <string name="quote_title_6">Whats On Your Mind?</string>
+    <string name="quote_description_6">In our day-to-day battle to continuously stay productive
+during Ramadan, its easy to become obsessed with
+some of the physical productivity issues; how many
+hours did I sleep? How many calories did I consume? Did
+I exercise?
+Even though this is important, remember that physical
+productivity is only a means and not the end goal itself.
+In our definition as ProductiveMuslims, physical produc-
+tivity is about optimizing your physical ability to enable
+you to serve Allah Subhanahu Wa Taala better and
+worship Him better.
+What you should be concerned about is: Will Allah
+Subhanahu Wa Taala accept my fast? Did I pray on time
+with all the sunnahs? Did I read Quran? Remember,
+Ramadan is not about just making it to the iftar table at
+the end of the day. Rather it is about attaining a new
+level of spirituality with Allah through your actions</string>
+
+    <string name="quote_title_7">When Will You Be Productive?</string>
+    <string name="quote_description_7">Today is a final call to all those who are yet to jump on
+the bandwagon of being productive for His sake to
+come aboard on our journey.
+If you do not resolve to become productive this Rama-
+dan, then when will you ever be productive? And if
+youre already productive, then is your productivity
+truly for His sake?
+This Ramadan we want to make sure you have a ‘guilt-
+free Ramadan with no regrets, so you can take advan-
+tage of this opportunity!</string>
+
+    <string name="quote_title_8">Start At Suhoor</string>
+    <string name="quote_description_8">When should you start your day during Ramadan?
+Should you start early (thus have a longer fast day) or
+should you sleep as much as you can until you really
+have to wake up?
+My advice: your productive day should start right after
+suhoor (no, Im not joking!) Try this tonight/tomorrow
+and see how you feel:
+Sleep as early as you can (ideally after Taraweeh). Then
+wake up 1 hour before Fajr and have a healthy suhoor.
+Relax after your meal, pray Fajr, read some Quran and
+then start your days work. Work on 1 to 3 most impor-
+tant tasks of the day; these could be work-related or
+family-related. Whatever it is, make sure that:
+• Theres nothing more important than these
+tasks and
+• You get them done and not get distracted
+As many a hadith narrate, suhoor is a blessing - so dont
+miss it. Start your day with it</string>
+
+    <string name="quote_title_9">Start At Suhoor - Continued</string>
+    <string name="quote_description_9">Below are answers to common questions about this
+technique:
+Q. Whats wrong with sleeping after suhoor?
+A. If you ever wondered why your Ramadan days are so
+tiring and why youre always tired/moody at
+work/school, this may be your answer. Try staying
+awake after suhoor for a few days and youll notice the
+difference in your attitude and productivity levels.
+Q. You mean I shouldnt sleep from suhoor all the way
+till night?!
+A. Of course not! That would be a killer! What is meant
+is that you stay awake for a minimum of 3 hours after
+suhoor to pray Fajr, read Quran and get 1-3 important
+tasks of your day done. After that youre “allowed” to
+sleep or take naps to prep yourself up before
+work/school or delay the nap to just before or after
+Dhuhr</string>
+
+    <string name="quote_title_10">Oh No, I Missed My Suhoor!</string>
+    <string name="quote_description_10">Here are 6 quick tips if youve missed your suhoor and
+want to stay productive:
+1. Dont panic: Calm down, pray Fajr, read some
+Quran. Youll be fine!
+2. Dont obsess over it: Avoid constantly remind-
+ing yourself during the day that you missed suhoor,
+that you only had one meal last night, etc. Just having
+these thoughts is enough to drain your energy and give
+you an excuse to be unproductive.
+3. Get on with your day: An athlete once said,
+“Theres nothing more powerful than a made up mind.”
+Make up your mind to be productive, talk to yourself
+like an athlete, and get on with your day!
+4. Nap if you need to: If you feel super hungry,
+then take short naps/breaks to help yourself pull
+through the day.
+5. Keep yourself busy: Ever had one of those
+Ramadan days that went by so quickly? Chances are
+you spent that day either super busy or doing some-
+thing you really enjoyed. Try to do the same here and
+you wont feel that you even missed suhoor at all,
+InshaAllah.
+6. Make dua to Allah Subhanahu Wa Taala to
+help you during the day. Remember the verse “It is You
+we worship and You we ask for help” (Al-Fatiha. 1:5). If
+were fasting for Him then lets ask Him to help us with
+our fasting and to perform it correctly, whether we miss
+suhoor or not.</string>
+
+    <string name="quote_title_11">Time For A Pop Quiz!</string>
+    <string name="quote_description_11">Being a third of the way through this month, lets
+review your progress.
+•How many days in the past 10 days have you
+managed to wake up for suhoor just before Fajr?
+•How many days in the past 10 days have you
+managed to stay awake after Fajr and got some impor-
+tant work done in the early morning hours?
+Give yourself one point for each day you succeeded.
+The higher you scored, the greater the sign that youre
+having a Productive Ramadan already!
+These two ingredients are key to having a Productive
+Ramadan:
+•Having suhoor as close as possible to Fajr
+ensures that you have the right amount of energy to
+keep you going the rest of the day.
+•Staying awake after Fajr means that youre
+benefitting from the dua of Prophet Muhammad (Peace
+be upon him) in which he said: “O Allah, bless my
+Ummah in its early hours” and you are getting more
+work done compared to those who sleep till Dhuhr (or
+Asr)!
+30 Tips for a Guilt-Free Ramadan!
+If you scored low in the above quiz, its time to reassess
+your productivity and your time management during
+Ramadan. Were less than 20 days away from Eid! Lets
+make most of the remaining time we have.</string>
+
+    <string name="quote_title_12">What Level Are You On?</string>
+    <string name="quote_description_12">What Level Are You On?
+As were approaching mid-Ramadan, we need to assess
+ourselves in terms of Spiritual Productivity, Physical
+Productivity, and Social Productivity.
+Usually people can be divided into 3 categories around
+this time:
+Category 1: Those who started well and continue to do
+well. These are the power-starters and those who push
+themselves each and every day to make the most of
+Ramadan!
+Category 2: Those who started well, but slowly, start
+to slip in their good deeds. These are the people who
+had an amazing strong start, but soon they relaxed and
+next thing they know their schedules have gone hay-
+wire.
+Category 3: Those who had a bad start and they are
+not sure what they can do to catch up.
+For those in Category 1 - may Allah (Subhanahu Wa
+Taala) keep you steadfast! Keep up the good work and
+never ever let go! It is as narrated in the hadith that
+Allah loves good deeds that are done consistently.
+For those in Category 2 - dont panic! Assess what
+needs to change in your life so you can get back on
+track and set yourself a target to do better in the next
+10 days. Dont give up hope; the best part of this
+month is yet to come InshaAllah!
+For those in Category 3 - TODAY you must change! Get
+up now, make wudu, pray 2 rakah to Allah Subhanahu
+Wa Taala and ask Him to help you make the most of
+Ramadan. If you continue as you are, come end of
+Ramadan and youll face regret and, by that time, itll be
+too late and youll have no one to blame but yourself.</string>
+
+    <string name="quote_title_13">Dont Feel Like Being Productive?</string>
+    <string name="quote_description_13">One of the biggest plagues of productivity is inconsis-
+tency. If youve been finding it hard lately to pick your
+copy of Quran and read that one Juz, or to stand up for
+another 8 to 20 rakaahs for Taraweeh after Isha, or any
+other good deed you used to do at the beginning of
+Ramadan before dropping it, then we have a simple and
+practical tip for you:
+JUST GET UP and DO IT!
+Take one small step towards the good deed and youll
+be a mile off before you know it, InshaAllah. Just pick
+up that Quran and read it. Just stand up and pray those
+2 rakahs, then the next one, and the next one. Just
+drive to that local charity group and volunteer your
+time so you are surrounded by other people doing good
+deeds.
+Once you get into motion, your heart and mind will
+follow. You just have to make that first step!</string>
+
+    <string name="quote_title_14">Miss That Feeling?</string>
+    <string name="quote_description_14">Once youre able to get over the ‘physical barrier doing
+the good deed, its time to get over the mental barrier.
+Ask yourself:
+• Was it really that bad once Ive done [the good
+deed] again and took the
+first step?
+• What was stopping me before?
+• How can I avoid this feeling of not ‘feeling like
+doing these good deeds
+from time to time?
+Were not going to answer these questions for you: we
+want you to answer them. You may miss that feeling
+you had at the beginning of Ramadan, yet you
+shouldnt get hung-up with the thought that you just
+dont want to do it.</string>
+
+    <string name="quote_title_15">Have You Hit The Halfway Mark?</string>
+    <string name="quote_description_15">Here are answers to a few frequently asked questions:
+Q. How can you tell that youre physically tired vs.
+simply being lazy?
+A. Its easy for our laziness to be masked as physical
+tiredness. We would stand at Taraweeh and our legs
+would be shaking or reciting Quran and our eyelids
+would be drooping, but the moment we go out of the
+mosque or close the Quran, suddenly were feeling very
+energetic! We have to be careful of this, catch ourselves
+and rebuke it when we find out were not tired, but
+simply being lazy.
+Try to find the root cause for this laziness; is it lack of
+sincerity? Low eman? A sin youve committed thats
+preventing you from enjoying the good deed? Make dua
+that Allah Subhanahu Wa Taala removes such laziness
+from you. You dont want it to ruin your Ramadan.
+However, if your body is genuinely aching and you
+havent slept properly for days, then youre physically
+tired and should get some urgent rest.
+Q. How can one get over the mental thought “let me
+just skip this good deed this time, Ill do it later?”
+A. “Tasweef” – the Arabic word for delaying doing things
+– is a common trick of Shaytaan. In fact it is one of his
+one of his best tricks yet. It sounds so good to delay a
+good deed until the ‘perfect time arrives; BUT the
+perfect time will never come. The perfect time is NOW!
+Also remember that each day of Ramadan that goes by
+without you doing as many good deeds as you can is a
+day thats gone forever, and youll never see it again till
+the Day of Judgment. So how do you want to see your
+Ramadan days on the Day of Judgment? Full of good
+deeds or with empty slots because you kept ‘skipping
+good deeds?
+If youve come halfway through this blessed month,
+dont let the good deeds slip; instead, invest in the few
+days which remain.</string>
+
+    <string name="quote_title_16">Success Only Comes From Allah</string>
+    <string name="quote_description_16">On this very day, over 1400 years ago, the great battle
+of Badr took place. We all know its story and how Allah
+Subhanahu Wa Taala granted victory to Prophet
+Muhammad (peace and blessings be upon him) and his
+Companions (may Allah be pleased with them) on that
+day. But what lessons can we learn from this battle
+that is relevant to our productivity? Heres one:
+After the battle was won, Allah Subhanahu Wa Taala
+revealed the following verse: “And Allah has already
+made you victorious at Badr, when you were a weak
+little force. So fear Allah much that you may be grate-
+ful” (Surat Aal-Imran; 3:123).
+This was a reminder to the Muslims that any success or
+victory is from Allah and Allah alone. They shouldnt be
+arrogant and forget the source of their success. Some-
+times when youre super productive and you achieve a
+great deal in a day, its easy to assume that your
+success comes from your skills or knowledge; but thats
+not how a Muslim thinks. A Muslim firmly believes in
+the verse that “And my success is not but through
+Allah. Upon him I have relied, and to Him I return” (Surat
+Hud; 11:88).
+Finally, on this special day, make dua for our oppressed
+brothers and sisters in many parts of the world. They
+are having a difficult Ramadan and the least we can do
+is make dua for them. We ask Allah (Subhanahu Wa
+Taala) with His Might and Power, the One Who granted
+His Prophet victory on the day of Badr to grant our
+brothers and sisters victory over their oppressors and all
+those who wrong them. Ameen!</string>
+
+    <string name="quote_title_17">Whats Your Ideal Ramadan Day?</string>
+    <string name="quote_description_17">The last 10 nights of Ramadan will begin soon. This is
+the time well need to pull together all our energies and
+all our productivity techniques to make sure we invest
+in every moment of these last 10 nights to the best of
+our ability.
+You are invited to download the Ramadan Taskinator
+today and start planning your last 10 days hour by
+hour. Ask yourself, ”If I knew which night amongst the
+10 nights is Laylut-Qadr (Night of Power), how would I
+spend that night?” Then replicate that ‘ideal night
+throughout the 10 nights or at least in the odd nights.
+May the most productive amongst you gain the highest
+rewards in these last nights and the reward of
+Laylatul-Qadr! Ameen.</string>
+
+    <string name="quote_title_18">Are You Like The Old Man In Salah?</string>
+    <string name="quote_description_18">Two years ago, I prayed Taraweeh next to a very old
+man. I noticed that he struggled to get up or stand on
+his feet (he was shaking from weakness), but he stood
+up for the entire Isha and Taraweeh prayers. Someone
+might have told him to sit down and relax, but you
+could tell from his determination at every rakah that he
+wanted to stand up for Allah Subhanahu Wa Taala
+during Ramadan and didnt want to sit down.
+The old man reminded me that sometimes the measure
+of how much you love someone is how much effort
+youre willing to put in for them. If we truly love Allah
+Subhanahu Wa Taala, shouldnt all of us put that extra
+bit of effort for Him?
+Think of one area or one activity where you show Allah
+Subhanahu Wa Taala that youre putting that extra bit
+of effort for Him. It could be waking up for Tahajjud or
+praying those extra sunnah prayers or going out to feed
+people.</string>
+
+    <string name="quote_title_19">Busy In The Last 10 Nights?</string>
+    <string name="quote_description_19">If we are to think of our purpose in life and our ultimate
+destination, Jannah, the answer becomes very easy:
+sacrifice your days work for 10 days so you can focus
+on night worship. However, not everyone can do so.
+So what can you do? Heres some advice:
+• Employ good task and time management to be
+able to balance between work and worship. Check out
+the Ramadan Taskinator.
+• Plan your day hour by hour and see which slots
+you need to be at work, which slots you need to be at
+the mosque, and what to do with the slots in between
+to maximize your energy/time. (e.g. power naps, light
+iftaar, etc.)
+• Be ruthless in your time discipline and make
+sure that no minute is wasted. Otherwise itll have a
+knock on effect on the rest of your day. Dont be com-
+placent about time-wasting activities, and really get
+yourself on ‘high-alert mode.
+Follow the above discipline like clockwork for at least
+the last 10 nights and you should be fine, InshaAllah</string>
+
+    <string name="quote_title_20">Natural Ways To Stay Awake</string>
+    <string name="quote_description_20">For people who are busy working during the day, it can
+be an extreme challenge to make the most of the last
+10 nights for ibadah, and some may even resort to
+unnatural ways of staying awake, including consuming
+large amount of caffeine, which can be detrimental to
+ones health.
+Here are natural ways of staying awake at night
+InshaAllah.
+• Nap: Master short bursts of power naps. These
+can range from 20 to 40 minutes, up to a maximum of
+90 minutes. They are extremely powerful to keep you
+awake and going for at least 3-4 hours after the nap.
+Whenever youre tired and see a window of opportunity
+to take a quick nap - do so. This will help keep you
+going InshaAllah.
+• Food: What we eat affects whether we can
+stay up or sleep. The more we eat at iftaar/suhoor, the
+more well feel sleepy. Eat light and healthier for these
+10 nights and youll be able to observe the long night
+prayers easily InshaAllah.
+30 Tips for a Guilt-Free Ramadan!
+• Make dua that Allah blesses you with energy, blesses
+your sleep, and blesses your time so that you can make the
+most of these blessed nights and reach maximum productiv-
+ity through them, InshaAllah.</string>
+
+    <string name="quote_title_21">What Will Be Your ONE SPECIAL Good Deed?</string>
+    <string name="quote_description_21">What is the ONE special good deed that youd want to
+remember your Ramadan with this year so you have no
+regrets by the end of it? Something youve never done
+before, something youve pushed yourself beyond your
+means and out of your comfort zone to achieve!?
+Here are some ideas:
+• Go on a full 10-day itikaaf (or less perhaps if
+this is your first time or if commitments dont permit)
+• Take out your wallet and give the largest ONE
+donation youve ever given in your life to a charitable
+cause.
+• Forgive that ONE person you said youd never
+ever forgive.
+• Get to know a poor family and vow to sponsor
+them as long as you live.
+• Arrange an Iftar at an orphanage
+• Donate an important piece of asset you have
+(e.g. land/property/farm) to Allah (Subhanahu Wa Taala)
+in the form of Waqf (endowment).
+Make this Ramadan truly memorable for your soul by
+doing something extraordinary this Ramadan! Think
+about it and take action!</string>
+
+    <string name="quote_title_22">What Will Be Your ONE Good Deed (Part 2)?</string>
+    <string name="quote_description_22">Today, think of the ONE good deed that you promise
+yourself to continue doing after Ramadan. Which one
+will it be?
+Will it be praying Tahajjud every night from now on?
+Will it be fasting every Monday and Thursday or at least
+3 days of the month each month?
+Will it be praying in the mosque for every single Salah?
+Will it be reading one juz of Quran each day?
+Will it be continually giving charity at least once a
+week?
+What will it be for you?
+Remember, “the most beloved deed to Allahs is the
+most regular and constant even though it were little”
+[Bukhari].
+These good deeds should be a part and parcel of your
+life well after Ramadan – so pick one and write it down
+and after Ramadan. Check yourself to ensure you
+consistently perform this good deed.
+The ProductiveMuslim Habitator is an excellent tool to
+help you with this, InshaAllah!</string>
+
+    <string name="quote_title_23">Are You Tired But Happy? :)</string>
+    <string name="quote_description_23">If youve been keeping up with a productive Ramadan,
+doing your best to balance between spiritual, social and
+physical productivity, youll probably be a bit tired by
+now.
+But honestly, arent you happy that youre having a
+Productive Ramadan and hopeful that Allah Subhanahu
+Wa Taala will accept it? Imagine if you slept all day
+during Ramadan and stayed all up night having fun
+with friends and watching movies. Would you be as
+happy?
+Our happiness and sadness is connected to how close
+we are with Allah Subhanahu Wa Taala. As human
+beings, we inherently feel happy when we worship
+Allah Subhanahu Wa Taala no matter how tired we get.
+Similarly were ‘programmed to feel sadness when
+were far from Allah, no matter how relaxed we are.
+So if youre feeling a bit tired and drained these days,
+feel happy that youre doing your best, smile, and ask
+Allah to help you continue on His path!</string>
+
+    <string name="quote_title_24">A One-to-One With Your Heart</string>
+    <string name="quote_description_24">If youre standing in prayer in these last few days of
+Ramadan doing your best to ‘feel closer to Allah Subha-
+nahu Wa Taala yet somehow feeling distanced; if youre
+wondering why those around you are all crying like
+babies whilst youre completely emotionless; if you
+wish you could be of those with soft hearts and tearful
+eyes in Ramadan, but it doesnt seem to happen, and
+you fail to reach that level in your spiritual worship –
+then its time to have a serious one-to-one conversa-
+tion with your heart.
+Ask your heart: why is it so cold? Why do the Words of
+its Creator have no effect or impact on it at all? Is it that
+arrogant that it doesnt need its Lord?!
+Why is it so hard? Why are no emotions expressed for
+either fear or joy of being with its Creator? Why is it a
+hypocrite? Itll cry watching a movie when it knows its
+not real but will not cry when it hears the truth about
+its ultimate destination?!
+Keep digging deeper until you find the answer. Get your
+heart to break in front of Allah Subhanahu Wa Taala
+this Ramadan. Theres no sweeter feeling than a
+sincere heart that cries out to Allah. Dont let Ramadan
+go without having cried even once in front of your Lord
+InshaAllah</string>
+
+    <string name="quote_title_25">A Practical Way To Scrub Your Heart Clean!</string>
+    <string name="quote_description_25">The Messenger of Allah (Peace be upon him) said:
+"There is a polish for everything that takes away rust;
+and the polish for the heart is remembrance of God"
+[Bukhari].
+The Messenger of Allah (Peace be upon him) said,
+“Renew your faith!” It was said, “O Messenger of Allah,
+how do we renew our faith?” He (Peace be upon him)
+replied, “By saying la ilaha illa Allah (‘There is no god
+but God) a lot” [Ahmad and Hakim].
+So there you have it: two simple prescriptions to soften
+your heart, remove the rust from it and feel closer to
+Allah Subhanahu Wa Taala, especially in these last few
+days of Ramadan.
+Try it today. Say "La ilaha illa Allah" repeatedly - when
+driving, sitting at your computer, cooking, or playing
+with your child – just say it and keep saying it!</string>
+
+    <string name="quote_title_26">Will You Continue On This Journey?</string>
+    <string name="quote_description_26">A feeling of ‘sadness clouds our hearts around this
+time each year. We wonder if well ever continue being
+this spiritual and close to Allah Subhanahu Wa Taala.
+Past experience has shown that we always fail to keep
+up after Ramadan, so what can we do to ensure the
+journey doesnt end here?
+Heres a video on this topic in which I share 6 tips with.
+One of the big reasons why we ‘fall after Ramadan is
+that we lose self-discipline. We have this false idea in
+our mind that “Its Eid! Do whatever you want!” (Even
+though we dont actually say this, our actions certainly
+do!)
+One of the best ways to fight this is to instill discipline
+in your life from day 1 of Eid. From day 1 of Eid, make
+sure you wake up early and stay up during those early
+hours of the morning! Occupy these precious hours
+with reading quietly, doing some housekeeping tasks,
+or even taking your children to the park for a nice
+picnic.
+By this ONE simple act of waking up early (for Fajr at
+least) and staying up in those early hours, youll be
+instilling self-discipline in your life which will radiate in
+the rest of your day/actions, InshaAllah. Also, by this
+one simple act, youll be setting yourself up for a
+productive and healthy post-Ramadan lifestyle thats
+going to help you throughout the year, InshaAllah.</string>
+
+    <string name="quote_title_27">Your Last Productive Act</string>
+    <string name="quote_description_27">To end this Ramadan feeling satisfied, what is the last
+productive thing you should do this Ramadan? You
+dont need to think about it. Prophet Muhammad (peace
+and blessings be upon him) already told us! Its paying
+zakat-al-fitr!
+If you can, try to give this zakat in person this Ramadan
+instead of doing it via a charitable organization.
+Its very easy. All you have to do is follow these 3 steps:
+• Go buy 3KG of rice/dates on behalf of yourself
++ each of your family
+members whom you support.
+• Find a needy Muslim person/family in your
+local area.
+• Deliver! (If you can deliver secretly by leaving it
+at their doorstep, it
+would be even better InshaAllah).
+Although its ‘easier and less of a ‘hassle to do it via a
+charity organization or online these days, its a different
+feeling when you do it physically and deliver it by hand.
+May Allah Subhanahu Wa Taala accept all your good
+deeds in these last blessed nights!</string>
+
+    <string name="quote_title_28">Ramadan Went By So Fast?</string>
+    <string name="quote_description_28">If you feel Ramadan went by so fast this year, its
+either because you had such an amazing productive
+Ramadan that time flew by fast and you didnt feel it,
+OR you were so busy that you didnt notice Ramadan at
+all except in these last few days.
+If you had a ProductiveRamadan, a heartfelt congratula-
+tions from the ProductiveMuslim team – we pray that
+Allah Subhanahu Wa Taala accepts your deeds and
+grants you many more productive Ramadans in years to
+come.
+If, unfortunately, you didnt make the most of Ramadan
+and you had a truly unproductive one, do not despair.
+All you need now is to sincerely face Allah Subhanahu
+Wa Taala in these last few hours before Ramadan ends
+and seek repentance from Him for letting this Ramadan
+slip by you without focusing on it. The worst thing you
+can do now is to lose hope in Allah Subhanahu Wa
+Taalas mercy. Repent, give yourself hope, and start
+putting concrete action steps to make the most of next
+years Ramadan, InshaAllah.</string>
+
+    <string name="quote_title_29">How will you be after Ramadan?</string>
+    <string name="quote_description_29">I am going to guess what youre thinking today: youre
+wondering (or rather youre doubtful) if youll continue
+your productivity after Ramadan.
+I wont lecture you on the importance of keeping up
+your productivity (spiritually, physically, socially) after
+Ramadan. Im sure youre receiving lots of reminders
+from your local imam and scholars that are talking
+about this. But Ill say this:
+If, in any moment during the last 29 days, you felt the
+sweetness of being a Muslim and you want that sweet-
+ness to be with you till after Ramadan, then you must
+continue being spiritually, physically, and socially
+productive after Ramadan.
+How? The formula is very simple: Have sincere inten-
+tions and work hard.
+I leave you with that thought today</string>
+
+    <string name="quote_title_30">Eid Mubarak and Thank You!</string>
+    <string name="quote_description_30">Well, this is it – the end of a long beautiful month – but
+hopefully the start of a new productive life! ;)
+The ProductiveMuslim team wishes you all a happy,
+blessed and – of course – Productive Eid!</string>
 </resources>
